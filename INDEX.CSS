@@ -1,0 +1,48 @@
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: rgb(109, 104, 112);
+}
+
+.titlebar {
+    color: rgb(207, 14, 88);
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+
+    flex-wrap: wrap;
+    margin: 100px;
+    justify-content: space-around;
+
+}
+
+.container div {
+    color: black;
+    width: 200px;
+    flex-basis: 28%;
+
+
+}
+
+
+
+.container {
+
+    display: flex;
+    flex: wrap;
+    justify-content: space-around;
+}
+
+}
+
+.container div {
+    width: 500px;
+    height: 50px;
+
+}
+
+.container img {
+    display: block;
+}
